@@ -1,0 +1,7 @@
+detect10k_demo.m
+
+nms, in line 54,
+
+scores, is a 7604 vector which has the scores of all the 7604 categories,
+
+
